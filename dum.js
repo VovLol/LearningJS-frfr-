@@ -11,4 +11,4 @@ function convertKgToFUUUUUUUUUUUUUUUUUUUUUUUUUnt(){
     console.log('результат в фунтах ' + result + ' киллограмма');
     resukt.innerText = result;
 }
-
+d
